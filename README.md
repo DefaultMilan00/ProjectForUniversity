@@ -1,13 +1,6 @@
 # ProjectForUniversity
 API Documentation
 
-Categories:
-- GET /api/categories - Retrieve all categories
-- POST /api/categories - Create a new category
-- GET /api/categories/{id} - Retrieve a specific category by ID
-- PUT /api/categories/{id} - Update a specific category by ID
-- DELETE /api/categories/{id} - Delete a specific category by ID
-
 Customer:
 - POST - Create/Edit a new customer
 - GET  - Retrieve a specific customer by ID
